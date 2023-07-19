@@ -14,8 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -50,10 +48,6 @@ body {
   min-height: 99vh;
 }
 ```
-
-### Continued development
-
-In my next projects I want to focus on the the best practices on where to declare variables or globar attributes.
 
 ## Author
 
