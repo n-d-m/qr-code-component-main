@@ -21,12 +21,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![Mobile](./screenshots/Screenshot%20Frontend%20Mentor%20QR%20code%20component%20-%20mobile.png)
-![Desktop](<./screenshots/Screenshot%20Frontend%20Mentor%20QR%20code%20component%20-%20desktop(1).png>)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/flexbox-qr-code-component-nFXnO2wAuJ)
+- Live Site URL: [GitHub Pages](https://n-d-m.github.io/qr-code-component-main/)
 
 ## My process
 
@@ -35,7 +34,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
 
 ### What I learned
 
